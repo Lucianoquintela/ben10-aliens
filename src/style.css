@@ -1,0 +1,26 @@
+p {
+    font-size:17px;
+}
+  
+li {
+    font-size:20px;
+}
+  
+body{
+    margin:20px;
+}
+
+.espaço {
+    padding-top:1px;
+}
+ 
+.titulo {
+    background-color:green;
+    color:white;
+    text-align:center;
+    border-radius:20px;
+}
+
+.cordefundo {
+    background-color:Turquoise;
+}
